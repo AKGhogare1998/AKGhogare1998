@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AKGhogare1998
-- 👀 I’m interested in development , cloud Engineering.
-- 🌱 I’m currently learning Git and github
-- 💞️ I’m looking to collaborate on java development
+- 👀 I’m interested in Development , Deployment and  cloud Engineering.
+- 🌱 I’m currently learning ReactJS
+- 💞️ I’m looking to collaborate on Full Stack Development and DevOps Role.
 - 📫 How to reach me 
 
 <!---
